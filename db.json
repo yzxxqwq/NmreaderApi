@@ -1,8 +1,4 @@
 {
     "total": 2,
-    "books": [
-        {"_id": "5816b415b06d1d32157790b1","type":"hot"},
-        {"_id": "5816b415b06d1d32157790b1","type":"hot"}
-    ],
     "ok": true
 }
