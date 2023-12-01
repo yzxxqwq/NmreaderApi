@@ -1,6 +1,5 @@
 {
     "books": [
         { "_id": 1, "title": "圣墟", "majorCate": "玄幻","author": "辰东","shortIntro": "在破败中崛起，在寂灭中复苏。沧海成尘，雷电枯竭，那一缕幽雾又一次临近大地，世间的枷锁被打开了，一个全新的世界就此揭开神秘的一角……","cover":"","site": "zhuishuvip","minorCate": "东方玄幻","sizetype": -1,"superscript": "","contentType": "txt","allowMonthly": false,"banned": 0,"latelyFollower": 305266,"retentionRatio": 72.08,"lastChapter":""}
-    ],
-    "ok": true
+    ]
 }
