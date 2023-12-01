@@ -1,56 +1,14 @@
 {
-    "male": [
-        {
-            "name": "玄幻",
-            "bookCount": 201515,
-            "monthlyCount": 33164
-        },
-        {
-            "name": "轻小说",
-            "bookCount": 22171,
-            "monthlyCount": 1031
-        }
+    "posts": [
+        { "id": 1, "title": "Post 1" },
+        { "id": 2, "title": "Post 2" },
+        { "id": 3, "title": "Post 3" }
     ],
-    "female": [
-        {
-            "name": "古代言情",
-            "bookCount": 224885,
-            "monthlyCount": 31572
-        },
-        {
-            "name": "女尊",
-            "bookCount": 4681,
-            "monthlyCount": 2268
-        },
-        {
-            "name": "莉莉",
-            "bookCount": 590,
-            "monthlyCount": 34
-        }
+    "comments": [
+        { "id": 1, "body": "some comment", "postId": 1 },
+        { "id": 2, "body": "some comment", "postId": 1 }
     ],
-    "picture": [
-        {
-            "name": "热血",
-            "bookCount": 967,
-            "monthlyCount": 111
-        },
-        {
-            "name": "少儿",
-            "bookCount": 2740,
-            "monthlyCount": 29
-        }
-    ],
-    "press": [
-        {
-            "name": "经管理财",
-            "bookCount": 588,
-            "monthlyCount": 354
-        },
-        {
-            "name": "出版小说",
-            "bookCount": 40300,
-            "monthlyCount": 3070
-        }
-    ],
-    "ok": true
+    "profile": {
+        "name": "typicode"
+    }
 }
