@@ -1,35 +1,14 @@
 {
-    "male": [
-        {
-            "id": 1,
-            "name": "玄幻",
-            "bookCount": 201515,
-            "monthlyCount": 33164
-        }
+    "posts": [
+        { "id": 1, "title": "Post 1" },
+        { "id": 2, "title": "Post 2" },
+        { "id": 3, "title": "Post 3" }
     ],
-    "female": [
-        {
-            "id": 1,
-            "name": "古代言情",
-            "bookCount": 224885,
-            "monthlyCount": 31572
-        }
+    "comments": [
+        { "id": 1, "body": "some comment", "postId": 1 },
+        { "id": 2, "body": "some comment", "postId": 1 }
     ],
-    "picture": [
-        {
-            "id": 1,
-            "name": "热血",
-            "bookCount": 967,
-            "monthlyCount": 111
-        }
-    ],
-    "press": [
-        {
-            "id": 1,
-            "name": "育儿健康",
-            "bookCount": 3247,
-            "monthlyCount": 218
-        }
-    ],
-    "ok": true
+    "profile": {
+        "name": "typicode"
+    }
 }
