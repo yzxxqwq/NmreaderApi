@@ -4,10 +4,6 @@
         { "id": 2, "name": "Post 2","bookCount": 201515,"monthlyCount": 33164 },
         { "id": 3, "name": "Post 3","bookCount": 201515,"monthlyCount": 33164 }
     ],
-    "female": [
-        { "id": 1, "body": "some comment", "postId": 1 },
-        { "id": 2, "body": "some comment", "postId": 1 }
-    ],
     "profile": {
         "name": "typicode"
     }
