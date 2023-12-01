@@ -1,5 +1,4 @@
 {
-    "total": 2,
     "books": [
         { "_id": 1, "title": "圣墟", "majorCate": "玄幻"},
         { "_id": 2, "title": "斗破苍穹", "majorCate": "玄幻"}
