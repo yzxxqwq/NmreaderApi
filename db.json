@@ -1,10 +1,21 @@
 {
     "male": [
-        { "id": 1, "name": "玄幻","bookCount": 201515,"monthlyCount": 33164},
-        { "id": 2, "name": "古代言情","bookCount": 201515,"monthlyCount": 33164 },
-        { "id": 3, "name": "热血","bookCount": 201515,"monthlyCount": 33164 }
+        { "id": 1, "name": "玄幻","bookCount": 201515,"monthlyCount": 33164,"icon":"","bookCover":[]},
+        { "id": 2, "name": "奇幻","bookCount": 27543,"monthlyCount": 2859,"icon":"","bookCover":[] },
+        { "id": 3, "name": "武侠","bookCount": 18870,"monthlyCount": 1996,"icon":"","bookCover":[] }
+    ],
+    "female": [
+        { "id": 1, "name": "古代言情","bookCount": 224885,"monthlyCount": 31572,"icon":"","bookCover":[]},
+        { "id": 2, "name": "现代言情","bookCount": 265962,"monthlyCount": 50086,"icon":"","bookCover":[] },
+        { "id": 3, "name": "青春校园","bookCount": 67815,"monthlyCount": 4473,"icon":"","bookCover":[] }
+    ],
+    "press": [
+        { "id": 1, "name": "古代言情","bookCount": 224885,"monthlyCount": 31572,"icon":"","bookCover":[]},
+        { "id": 2, "name": "现代言情","bookCount": 265962,"monthlyCount": 50086,"icon":"","bookCover":[] },
+        { "id": 3, "name": "青春校园","bookCount": 67815,"monthlyCount": 4473,"icon":"","bookCover":[] }
     ],
     "profile": {
         "name": "typicode"
     }
+    "ok": true
 }
