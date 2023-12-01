@@ -1,6 +1,7 @@
 {
     "male": [
         {
+            "id": 1,
             "name": "玄幻",
             "bookCount": 201515,
             "monthlyCount": 33164
@@ -8,6 +9,7 @@
     ],
     "female": [
         {
+            "id": 1,
             "name": "古代言情",
             "bookCount": 224885,
             "monthlyCount": 31572
@@ -15,6 +17,7 @@
     ],
     "picture": [
         {
+            "id": 1,
             "name": "热血",
             "bookCount": 967,
             "monthlyCount": 111
@@ -22,6 +25,7 @@
     ],
     "press": [
         {
+            "id": 1,
             "name": "育儿健康",
             "bookCount": 3247,
             "monthlyCount": 218
