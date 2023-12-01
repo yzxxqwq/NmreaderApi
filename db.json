@@ -1,8 +1,8 @@
 {
     "male": [
-        { "id": 1, "name": "Post 1","bookCount": 201515,"monthlyCount": 33164},
-        { "id": 2, "name": "Post 2","bookCount": 201515,"monthlyCount": 33164 },
-        { "id": 3, "name": "Post 3","bookCount": 201515,"monthlyCount": 33164 }
+        { "id": 1, "name": "玄幻","bookCount": 201515,"monthlyCount": 33164},
+        { "id": 2, "name": "古代言情","bookCount": 201515,"monthlyCount": 33164 },
+        { "id": 3, "name": "热血","bookCount": 201515,"monthlyCount": 33164 }
     ],
     "profile": {
         "name": "typicode"
