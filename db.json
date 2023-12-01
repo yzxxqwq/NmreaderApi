@@ -1,16 +1,7 @@
 {
-    "male": [
-        { "id": 1, "name": "玄幻","bookCount": 201515,"monthlyCount": 33164,"icon":"","bookCover":[]},
-        { "id": 2, "name": "奇幻","bookCount": 27543,"monthlyCount": 2859,"icon":"","bookCover":[] },
-        { "id": 3, "name": "武侠","bookCount": 18870,"monthlyCount": 1996,"icon":"","bookCover":[] }
+    "total": 1;
+    "books": [
+        { "_id": "5816b415b06d1d32157790b1","title": "圣墟","author": "辰东","shortIntro": "在破败中崛起，在寂灭中复苏。沧海成尘，雷电枯竭，那一缕幽雾又一次临近大地，世间的枷锁被打开了，一个全新的世界就此揭开神秘的一角……","majorCate": "玄幻","minorCate": "东方玄幻","sizetype": -1,"contentType": "txt","allowMonthly": false,"superscript": "","banned": 0,"latelyFollower": 305266,"retentionRatio": 72.08,"lastChapter": "第629章 闷棍镇压昆仑","tags": ["玄幻","东方玄幻"],"site": "zhuishuvip","cover":"","gender":"male","type":"hot"},
     ],
-    "female": [
-        { "id": 1, "name": "古代言情","bookCount": 224885,"monthlyCount": 31572,"icon":"","bookCover":[]},
-        { "id": 2, "name": "现代言情","bookCount": 265962,"monthlyCount": 50086,"icon":"","bookCover":[] },
-        { "id": 3, "name": "青春校园","bookCount": 67815,"monthlyCount": 4473,"icon":"","bookCover":[] }
-    ],
-
-    "profile": {
-        "name": "typicode"
-    }
+    "ok": true
 }
