@@ -1,8 +1,8 @@
 {
-    "posts": [
-        { "id": 1, "title": "Post 1" },
-        { "id": 2, "title": "Post 2" },
-        { "id": 3, "title": "Post 3" }
+    "total": 2,
+    "books": [
+        { "_id": 1, "title": "圣墟", "majorCate": "玄幻"},
+        { "_id": 2, "title": "斗破苍穹", "majorCate": "玄幻"}
     ],
     "comments": [
         { "id": 1, "body": "some comment", "postId": 1 },
